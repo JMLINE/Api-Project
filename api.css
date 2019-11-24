@@ -1,0 +1,78 @@
+.title {
+    text-align: center;
+    margin: 0px;
+    color: yellow;
+    font-size: 40pt;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100px;
+
+
+}
+
+
+body {
+    background-color: #24476D;
+    background-size: cover;
+    background-image: url("images/clouds.png");
+    text-align: center;
+    color: yellow;
+    font-family: 'Calistoga', cursive;
+
+}
+
+
+.row {
+    text-align: center;
+    margin: 0px;
+
+
+
+}
+
+.row li {
+    list-style-type: none;
+}
+
+.response {
+    color: black;
+    font-size: 20pt;
+    font-family: 'Calistoga', cursive;
+    width: 100%;
+    margin: 40pt;
+    height: 250px;
+
+}
+
+.sidenav {
+    height: 100%; 
+    width: 160px; 
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+    background-color: black; 
+    overflow-x: hidden; 
+    padding-top: 20px;
+  }
+  
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: yellow;
+    display: block;
+  }
+  
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+ 
+  .main {
+    margin-left: 160px; 
+    padding: 0px 10px;
+  }
+  
