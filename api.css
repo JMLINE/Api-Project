@@ -38,9 +38,11 @@ body {
     color: black;
     font-size: 20pt;
     font-family: 'Calistoga', cursive;
-    width: 100%;
-    margin: 40pt;
-    height: 250px;
+    width: 50%;
+    margin: 0 25%;
+    height: 270px;
+    background-color: white;
+   
 
 }
 
