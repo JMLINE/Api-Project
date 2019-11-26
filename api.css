@@ -21,6 +21,12 @@ body {
 
 }
 
+.copy{
+  color:white;
+  z-index: +3;
+  margin:60px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 .row {
     text-align: center;
@@ -39,9 +45,11 @@ body {
     font-size: 20pt;
     font-family: 'Calistoga', cursive;
     width: 50%;
-    margin: 0 25%;
+    margin: 0 30%;
     height: 270px;
     background-color: white;
+    border-style: double;
+    border-color:black;
    
 
 }
